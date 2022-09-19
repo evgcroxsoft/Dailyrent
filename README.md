@@ -1341,7 +1341,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## **MY THANKS**
-> ### I want to thank the **TeachMeSkills** courses to the whole team, colleagues and especially the teacher **Dmitry Mishuta**.
+> ### I want to thank the **TeachMeSkills** courses to the whole team, colleagues.
 
 **All these issues have been resolved!**
 
@@ -1349,7 +1349,7 @@ Please make sure to update tests as appropriate.
 
 MIT License
 
-Copyright (c) **Sofware developer Python [2022] [Yevhenii] **
+Copyright (c) **Sofware developer Python [2022] [Yevhenii]**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
